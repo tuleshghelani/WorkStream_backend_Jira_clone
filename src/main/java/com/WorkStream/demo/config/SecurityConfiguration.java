@@ -33,6 +33,8 @@ public class SecurityConfiguration {
             "/swagger-resources/**",
             "/configuration/ui",
             "/configuration/security",
+            "/api/user/register",
+            "/api/user/login",
             "/swagger-ui/**",
             "/webjars/**",
             "/swagger-ui.html"};
